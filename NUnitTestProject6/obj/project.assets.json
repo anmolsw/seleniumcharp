@@ -2895,11 +2895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anmol.singh\\source\\repos\\NUnitTestProject6\\NUnitTestProject6\\NUnitTestProject6.csproj",
+      "projectUniqueName": "C:\\Users\\anmol.singh\\Documents\\GitHub\\NUnitTestProject6\\NUnitTestProject6.csproj",
       "projectName": "NUnitTestProject6",
-      "projectPath": "C:\\Users\\anmol.singh\\source\\repos\\NUnitTestProject6\\NUnitTestProject6\\NUnitTestProject6.csproj",
+      "projectPath": "C:\\Users\\anmol.singh\\Documents\\GitHub\\NUnitTestProject6\\NUnitTestProject6.csproj",
       "packagesPath": "C:\\Users\\anmol.singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anmol.singh\\source\\repos\\NUnitTestProject6\\NUnitTestProject6\\obj\\",
+      "outputPath": "C:\\Users\\anmol.singh\\Documents\\GitHub\\NUnitTestProject6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anmol.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
